@@ -1,11 +1,11 @@
 {
   "properties3": [{
   "name":"CLEARANCE" ,
-  "price": "1950",
-  "rating" : "5",
-  "location": "Antarctica",
-  "rooms": "1",
+  "price": "50",
+  "rating" : "1",
+  "location": "Compton",
+  "rooms": "2",
     "availability": "Available",
     "clearance": "40",
-  "features": ["made of ice","penguins visit"]
+  "features": ["barred windows","double front-door"]
 }]}

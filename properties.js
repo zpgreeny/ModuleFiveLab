@@ -347,6 +347,7 @@ function Props3(jsonObj) {
         let p63 = document.createElement('p');
         let p73 = document.createElement('p');
         let p83 = document.createElement('p');
+        let p9 = document.createElement('p');
 
 
         async function getName3() {
@@ -429,6 +430,18 @@ function Props3(jsonObj) {
 
         getSuperRating3();
 
+        async function getClearance() {
+            try {
+                let clearance = await Promise.all(p9.textContent = 'Reduced Rate: $' + Props3[i].clearance);
+            } catch (e) {
+                console.log(e);
+            }
+        }
+
+        getClearance();
+
+
+
         let features = Props3[i].features;
         //for loop to store each index array into a list
         for (let j = 0; j < features.length[j]; j++) {
@@ -468,6 +481,16 @@ function Props3(jsonObj) {
             main3.appendChild(article3);
         }
 
+        let clearancePropThree = document.querySelectorAll('button')[5];
+
+        clearancePropThree.addEventListener('click', function(){
+            clearance3();
+        });
+
+        function clearance3() {
+            article3.appendChild(p9);
+            main3.appendChild(article3);
+        }
 
     }
 }
