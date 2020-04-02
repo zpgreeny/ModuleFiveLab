@@ -6,6 +6,7 @@
       "rating" : "4",
       "location": "Chicago",
       "rooms": "3",
+      "availability": "Available",
       "features": ["wifi","hot-tub","driveway"]
     }
   ]
