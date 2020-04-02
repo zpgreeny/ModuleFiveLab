@@ -1,0 +1,9 @@
+{
+  "properties3": [{
+  "name":"CLEARANCE" ,
+  "price": "1950",
+  "rating" : "5",
+  "location": "Antarctica",
+  "rooms": "1",
+  "features": ["made of ice","penguins visit"]
+}]}

@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name":"Sunny Side Chicago" ,
+      "price": "250",
+      "rating" : "4",
+      "location": "Chicago",
+      "rooms": "3",
+      "features": ["wifi","hot-tub","driveway"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "properties4": [
+    {
+      "name":"Super Awesome Mansion" ,
+      "price": "5000",
+      "rating" : "5",
+      "location": "HolyWood",
+      "rooms": "24",
+      "features": ["Pool", "10 car garage", "Crystal chandelier", "butler", "Maids", "Chef"],
+      "superRating" : "100/10"
+    }
+  ]
+}
