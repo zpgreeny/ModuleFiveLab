@@ -6,6 +6,7 @@
       "rating": "5",
       "location": "Antarctica",
       "rooms": "1",
+      "availability": "Isn't Available",
       "features": [
         "made of ice",
         "penguins visit"

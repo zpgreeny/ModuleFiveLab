@@ -6,6 +6,7 @@
       "rating" : "5",
       "location": "HolyWood",
       "rooms": "24",
+      "availability": "Available",
       "features": ["Pool", "10 car garage", "Crystal chandelier", "butler", "Maids", "Chef"],
       "superRating" : "100/10"
     }
