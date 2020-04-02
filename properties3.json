@@ -6,5 +6,6 @@
   "location": "Antarctica",
   "rooms": "1",
     "availability": "Available",
+    "clearance": "40",
   "features": ["made of ice","penguins visit"]
 }]}
